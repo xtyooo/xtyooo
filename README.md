@@ -14,7 +14,7 @@
 
 📫 如何联系我： 1286214601@qq.com
 
-⚡ 有趣的事实：我是一个咖啡爱好者，喜欢探索新的咖啡店。
+⚡ 有趣的事实：我是一个美食爱好者，喜欢探索新的美食店。
 
 🛠️ 技术 & 工具
 
@@ -29,5 +29,6 @@ Web 开发：HTML、CSS、Vue
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtyooo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtyooo&layout=compact&theme=radical)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=xtyooo&theme=dracula)
 
 感谢您的访问！祝您有美好的一天！😄
