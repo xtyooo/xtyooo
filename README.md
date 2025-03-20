@@ -1,32 +1,33 @@
-# Hi there, I'm xtyooo! 👋
+嗨，我是 xtyooo！👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves working on exciting projects and learning new technologies.
+欢迎来到我的 GitHub 个人资料！我是一个充满激情的开发人员，喜欢从事令人兴奋的项目和学习新技术。
 
-## 🚀 About Me
+🚀 关于我
 
-- 🔭 I’m currently working on various projects in web development, AI, and open-source contributions.
-- 🌱 I’m always learning and currently diving deeper into machine learning and data science.
-- 👯 I’m looking to collaborate on open-source projects and innovative startups.
-- 💬 Ask me about anything related to web development, AI, or tech in general.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
-- ⚡ Fun fact: I'm a coffee enthusiast and love exploring new coffee shops.
+🔭 我目前正在从事 Web 开发、AI 和开源贡献方面的各种项目。
 
-## 🛠️ Technologies & Tools
+🌱 我一直在学习，目前正在更深入地研究机器学习和数据科学。
 
-- Programming Languages: JavaScript, Python, Java, C++
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Tools & Platforms: Git, Docker, Kubernetes, AWS
+👯 我希望在开源项目和创新创业公司上进行合作。
 
+💬 向我询问与 Web 开发、AI 或一般技术相关的任何事情。
+
+📫 如何联系我： 1286214601@qq.com
+
+⚡ 有趣的事实：我是一个咖啡爱好者，喜欢探索新的咖啡店。
+
+🛠️ 技术 & 工具
+
+编程语言：Java,JavaScript，Python
+
+Web 开发：HTML、CSS、Vue
+
+中间件：MySQL、MongoDB、redis、MQ、ES
+
+工具和平台：Git、Docker、Kubernetes、AWS
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtyooo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtyooo&layout=compact&theme=radical)
 
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://your-website.com)
-
-Thanks for visiting! Have a great day! 😄
+感谢您的访问！祝您有美好的一天！😄
