@@ -81,10 +81,6 @@
 <!-- GitHub统计信息 -->
 <h2 align="center">📈 GitHub 统计</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtyooo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtyooo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 
